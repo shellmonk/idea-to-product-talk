@@ -288,6 +288,7 @@ What becomes easier or more difficult to do because of this change?
 
 - Clients want to feel in control <!-- .element: class="fragment" data-fragment-index="1" -->
 - Being honest builds confidence <!-- .element: class="fragment" data-fragment-index="2" -->
+- Look for quick win opportunities <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
 
@@ -308,12 +309,32 @@ What becomes easier or more difficult to do because of this change?
 
 ---
 
+## Protip: Cloud
+
+- Majority of cloud providers offer reference architectures <!-- .element: class="fragment" data-fragment-index="1" -->
+  - AWS
+  - Azure
+  - Google Cloud
+  - OCI
+- Let your cloud provide help you <!-- .element: class="fragment" data-fragment-index="2" -->
+  - ...but don't let them drain your budget
+
 ## 6. Maintenance
 
 - If you did everything correctly until now, maintenance will be a piece of cake <!-- .element: class="fragment" data-fragment-index="1" -->
 - Keep an eye on the architectural characteristics <!-- .element: class="fragment" data-fragment-index="2" -->
 - Develop methods for monitoring <!-- .element: class="fragment" data-fragment-index="3" -->
 - Good observability is golden <!-- .element: class="fragment" data-fragment-index="4" -->
+
+---
+
+## Observe everything
+
+- Use good telemetry tools <!-- .element: class="fragment" data-fragment-index="1" -->
+  - OpenTelemetry
+  - Service meshes (Istio, Linkerd, Consul, etc)
+- Set alarms and notifications <!-- .element: class="fragment" data-fragment-index="2" -->
+- If needed, incorporate on-call duty rotations <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
 
