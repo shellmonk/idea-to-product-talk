@@ -226,6 +226,10 @@ Rel(banking_system, mainframe, "Uses")
 
 ---
 
+## Keeping decisions visible
+
+![Srbenda](/assets/srbenda.png)
+
 ## ADR template example
 
 ```md
@@ -296,6 +300,14 @@ What becomes easier or more difficult to do because of this change?
 
 ---
 
+## Cost of running your system
+
+- Utilize online calculators <!-- .element: class="fragment" data-fragment-index="1" -->
+- Be as precise as you can <!-- .element: class="fragment" data-fragment-index="2" -->
+- Again, keep your client in the loop <!-- .element: class="fragment" data-fragment-index="3" -->
+
+---
+
 ## 6. Maintenance
 
 - If you did everything correctly until now, maintenance will be a piece of cake <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -309,10 +321,14 @@ What becomes easier or more difficult to do because of this change?
 
 > "It's dark and hell is hot", **DMX**
 
-- Communication is the key
-- Architecture is hard and keeps evolving
-- Documentation is your friend
-- Keep it lean and clean
+- Communication is the key <!-- .element: class="fragment" data-fragment-index="1" -->
+- Architecture is hard and keeps evolving <!-- .element: class="fragment" data-fragment-index="2" -->
+- Documentation is your friend <!-- .element: class="fragment" data-fragment-index="3" -->
+- Keep it lean and clean <!-- .element: class="fragment" data-fragment-index="4" -->
+  - Git / PlantUML / C4
+  - Evolutionary architecture
+  - ADL
+  - Mark Richards' Worksheets
 
 ---
 
