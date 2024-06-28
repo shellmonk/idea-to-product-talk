@@ -65,7 +65,7 @@ revealOptions:
 
 ---
 
-### Prototyping
+## Prototyping
 
 - Clients love prototypes <!-- .element: class="fragment" data-fragment-index="1" -->
   - Prototypes are great communication tool
@@ -230,6 +230,8 @@ Rel(banking_system, mainframe, "Uses")
 
 ![Srbenda](/assets/srbenda.png)
 
+---
+
 ## ADR template example
 
 ```md
@@ -318,6 +320,8 @@ What becomes easier or more difficult to do because of this change?
   - OCI
 - Let your cloud provide help you <!-- .element: class="fragment" data-fragment-index="2" -->
   - ...but don't let them drain your budget
+
+---
 
 ## 6. Maintenance
 
