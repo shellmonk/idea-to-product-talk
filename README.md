@@ -19,15 +19,15 @@ reveal-md talk.md
 
 ### Useful links
 
-[Mark Richards' Architecture characteristics and architectural styles worksheets](https://www.developertoarchitect.com/resources.html)
-[C4 Model](https://c4model.com/)
-[ADRs examples and templates](https://github.com/joelparkerhenderson/architecture-decision-record)
-[GitHub's text about ADRs best practices](https://adr.github.io/)
+- [Mark Richards' Architecture characteristics and architectural styles worksheets](https://www.developertoarchitect.com/resources.html)
+- [C4 Model](https://c4model.com/)
+- [ADRs examples and templates](https://github.com/joelparkerhenderson/architecture-decision-record)
+- [GitHub's text about ADRs best practices](https://adr.github.io/)
 
 ### Tools
 
-[PlantUML](https://plantuml.com/)
-[adr-tools](https://github.com/npryce/adr-tools)
-[Structurizr](https://structurizr.com/)
-[OpenTelemetry](https://opentelemetry.io/)
-[ArchUnit](https://www.archunit.org/)
+- [PlantUML](https://plantuml.com/)
+- [adr-tools](https://github.com/npryce/adr-tools)
+- [Structurizr](https://structurizr.com/)
+- [OpenTelemetry](https://opentelemetry.io/)
+- [ArchUnit](https://www.archunit.org/)
